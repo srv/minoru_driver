@@ -1,0 +1,20 @@
+<package>
+  <name>minoru_driver</name>
+  <version>0.0.1</version>
+  <description>Driver for stereo camera minoru</description>
+  <author email="pl.negre@uib.cat">Pep Lluis Negre</author>
+  <maintainer email="pl.negre@uib.cat">Pep Lluis Negre</maintainer>
+  <license>BSD</license>
+  <url type="website">https://github.com/srv/minoru_driver</url>
+  <url type="bugtracker">https://github.com/srv/minoru_driver/issues</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+
+  <run_depend>roscpp</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+</package>
