@@ -4,6 +4,7 @@
   <description>Driver for stereo camera minoru</description>
   <author email="pl.negre@uib.cat">Pep Lluis Negre</author>
   <maintainer email="pl.negre@uib.cat">Pep Lluis Negre</maintainer>
+  <maintainer email="antoni.martorell@uib.cat">Antoni Martorell</maintainer>
   <license>BSD</license>
   <url type="website">https://github.com/srv/minoru_driver</url>
   <url type="bugtracker">https://github.com/srv/minoru_driver/issues</url>
